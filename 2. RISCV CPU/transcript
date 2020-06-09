@@ -1,0 +1,141 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile E:/HCMUT/HCMUT_SEMISTERS/HCMUT_HK192/CTMT/module_phan_1/module_phan_1/RISC_V.v
+# Loading project CPU_RISCV
+# Compile of ALU1.v was successful.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of ALU1.v was successful.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of ALU1.v was successful.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of ALU1.v was successful with warnings.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of ALU1.v was successful.
+# Compile of ALU1.v was successful.
+# Compile of ALU1.v was successful.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of ALU1.v was successful.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of PCmux.v was successful.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# 14 compiles, 0 failed with no errors.
+# reading C:/Modeltech_pe_edu_10.4a/win32pe_edu/../modelsim.ini
+# Loading project RISC_V
+# Compile of ALU1.v was successful.
+# Compile of ALUmux.v was successful.
+# Compile of ALUmux2.v was successful.
+# Compile of Branch comparator.v was successful.
+# Compile of control.v was successful.
+# Compile of DMEM1.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of immmgen.v was successful.
+# Compile of PC.v was successful.
+# Compile of PCmux.v was successful.
+# Compile of PCPlus4.v was successful.
+# Compile of RegFile.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of wbmux.v was successful.
+# Compile of test_CPU.v was successful.
+# 15 compiles, 0 failed with no errors.

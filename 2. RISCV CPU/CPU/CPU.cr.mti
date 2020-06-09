@@ -1,0 +1,120 @@
+{E:/HCMUT/PROJECT/2. RISCV CPU/PCPlus4.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/PCPlus4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PCPlus4
+
+Top level modules:
+	PCPlus4
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/wbmux.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/wbmux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module muxwb
+
+Top level modules:
+	muxwb
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/PCmux.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/PCmux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PCmux
+
+Top level modules:
+	PCmux
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/Branch comparator.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/Branch comparator.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module branch_comp
+
+Top level modules:
+	branch_comp
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/test_bench.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/test_bench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/test_alu_riscV.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/test_alu_riscV.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_alu_riscV
+
+Top level modules:
+	test_alu_riscV
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/control.v} {1 {vlog -work work -stats=none {E:\HCMUT\PROJECT\2. RISCV CPU\control.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/immmgen.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/immmgen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module immgen
+
+Top level modules:
+	immgen
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/ALU1.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/ALU1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/PC.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/PC.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/DMEM1.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/DMEM1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/ALUmux1.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/ALUmux1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux1
+
+Top level modules:
+	mux1
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/test_branch.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/test_branch.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_branch_comp
+
+Top level modules:
+	test_branch_comp
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/ALUmux2.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/ALUmux2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/RegFile.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/RegFile.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/RISC_V.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/RISC_V.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RISC_V
+
+Top level modules:
+	RISC_V
+
+} {} {}} {E:/HCMUT/PROJECT/2. RISCV CPU/IMEM.v} {1 {vlog -work work -stats=none {E:/HCMUT/PROJECT/2. RISCV CPU/IMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}}

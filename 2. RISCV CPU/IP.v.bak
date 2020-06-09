@@ -1,0 +1,12 @@
+module IP(inst_addr, clk, PC);
+output reg [31:0] inst_addr;
+input [31:0] PC;
+input clk;
+
+initial 
+inst_addr = 32'bh;
+
+always@(posedge clk)
+inst_addr <= PC;
+
+endmodule;

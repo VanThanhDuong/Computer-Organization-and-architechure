@@ -1,0 +1,25 @@
+//Version 1.1
+/*PC register
+	clk: tin hieu xung clock vao cpu.
+	pc_in: tin hieu 32 bits tu mux.
+	pc_out: tin hieu 32 bits ra cua PC.
+	gia tri khoi tao: PC = 0xffff_fffc.
+	
+	muc dich: PC dung de chua dia chi cua lenh tiep theo can thuc hien.
+	mo ta: khi co xung clock canh len thi pc_out = pc_in.
+*/
+
+module PC(clk, pc_in, pc_out);
+input clk;
+input [31:0] pc_in;
+output reg [31:0] pc_out;
+
+initial begin
+pc_out = 32'hffff_fffc;
+end
+
+always@(posedge clk)
+begin
+	pc_out <= pc_in;
+end
+endmodule
